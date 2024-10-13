@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-PortfolioGame-0.1";
 const contentToCache = [
-    "Build/webglnew.loader.js",
-    "Build/webglnew.framework.js",
-    "Build/webglnew.data",
-    "Build/webglnew.wasm",
+    "Build/Build.loader.js",
+    "Build/Build.framework.js",
+    "Build/Build.data",
+    "Build/Build.wasm",
     "TemplateData/style.css"
 
 ];
